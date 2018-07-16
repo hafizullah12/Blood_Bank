@@ -1,0 +1,124 @@
+body{
+    
+    font: 18px/28px 'Source Sans Pro', sans-serif;
+    color: #4d4d4d;
+    font-weight: 400;  
+
+}
+
+.Heading {
+    color: #fff;
+    background-color: #FE3C47;
+    border-color: #FE3C47;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 35px;
+	font-family: comic sans ms;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.contentstyle{
+    text-align: justify;
+    font-family: comic sans ms;
+    margin-top: 20px;
+}
+
+.contentstyle ul li{
+    list-style-type: circle;
+    margin-top: 20px;
+}
+
+
+.brandimg{
+    
+  height: 30px;
+}
+
+
+.mgUpper {
+    
+	margin-top: 77px;
+}
+
+.promo{
+    
+    background: #FE3C47;
+    border: 2px solid #FE3C47;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 22px;
+    margin-top: 0px;
+}
+
+.promo h2{
+    
+    font-size: 42px;
+    line-height: 70px;
+    font-weight: 700;
+    margin: 24px 0;
+    text-transform: uppercase;
+}
+
+.promo h3{
+    
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    line-height: 50px;
+    margin: 16px 0;
+    overflow: hidden;
+    display: block;
+}
+
+
+
+.padd{
+    
+    padding: 40px;
+}
+
+.mgtop{
+    
+    margin-top: 20px;
+}
+
+.panel-primary {
+    
+	border-color:  #eee;
+}
+
+.panel-primary > .panel-heading {
+    
+	color: #fff;
+	background-color: #FE3C47;
+	border-color: #eee;
+}
+
+.heading{
+    
+    color: #fff;
+	background-color: #FE3C47;
+	border-color: #FE3C47;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
+.heading h3{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer-bottom {
+    
+  padding-top: 10px;
+}
+
+.footer-bottom p {
+    
+  margin-left: 15px;
+  text-align: center;
+}
+
