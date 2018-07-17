@@ -2,10 +2,10 @@
 
 Deploy Project on Your Local server
 ---------------------------------------
-1.Download or clone project to your Local server
-2.creare Database as your own wish 
-3.import blood_bank.sql to your created database 
-4.blood_bank.sql store in database folder 
+1.Download or clone project to your Local server <br> 
+2.creare Database as your own wish  <br> 
+3.import blood_bank.sql to your created database  <br> 
+4.blood_bank.sql will find  in database folder <br>  
 
 
  Demo
@@ -18,7 +18,7 @@ For Admin panel
 http://bds.imhafiz.me/admin 
 
 UserName:hafiz <br>
-Password:12345
+Password:12345 <br>
 
 let's visit my project,thank you.
 
