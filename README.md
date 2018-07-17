@@ -24,8 +24,8 @@ let's visit my project,thank you.
 
 Contact
 --------
-Email  :uhafiz425@gmail.com
-fb     : https://www.facebook.com/hafiz.nstu.ice
+Email  :uhafiz425@gmail.com <br> 
+fb     : https://www.facebook.com/hafiz.nstu.ice <br>
 phone  :01790875612 
 
 
