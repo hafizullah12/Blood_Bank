@@ -3,7 +3,7 @@
 Deploy Project on Your Local server
 ---------------------------------------
 1.Download or clone project to your Local server <br> 
-2.creare Database as your own wish  <br> 
+2.create Database as your own wish  <br> 
 3.import blood_bank.sql to your created database  <br> 
 4.blood_bank.sql will find  in database folder <br>  
 
